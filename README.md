@@ -1,0 +1,2 @@
+# KuyrukImpl
+kuyruk implementasyonu
