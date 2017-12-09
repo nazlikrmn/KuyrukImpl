@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\visual studio\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\bin\Debug\Kuyruk Implemantasyonu.exe.config
+C:\Users\user\Desktop\visual studio\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk Implemantasyonu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\visual studio\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk_Implemantasyonu.Form1.resources
+C:\Users\user\Desktop\visual studio\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk_Implemantasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\visual studio\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk Implemantasyonu.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\visual studio\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\bin\Debug\Kuyruk Implemantasyonu.exe
+C:\Users\user\Desktop\visual studio\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\bin\Debug\Kuyruk Implemantasyonu.pdb
+C:\Users\user\Desktop\visual studio\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk Implemantasyonu.exe
+C:\Users\user\Desktop\visual studio\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk Implemantasyonu.pdb
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\bin\Debug\Kuyruk Implemantasyonu.exe.config
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk Implemantasyonu.exe
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk Implemantasyonu.pdb
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk Implemantasyonu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk_Implemantasyonu.Form1.resources
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk_Implemantasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk Implemantasyonu.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\obj\Debug\Kuyruk Implemantasyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\bin\Debug\Kuyruk Implemantasyonu.exe
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\Kuyruk Implemantasyonu\Kuyruk Implemantasyonu\bin\Debug\Kuyruk Implemantasyonu.pdb
